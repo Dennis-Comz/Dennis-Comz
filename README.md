@@ -10,7 +10,7 @@ Take a look at some projects I have been working on.
 
 * [Hospital System - Python | TypeScript](https://github.com/Dennis-Comz/IPC1_PROYECTO2_1S_2021)
 
-* [Exploration Robot Simulator - Python]([https://github.com/Dennis-Comz/ExplorationRobot])
+* [Exploration Robot Simulator - Python](https://github.com/Dennis-Comz/ExplorationRobot)
 
 * [Automata Tree Method Generator - Java](https://github.com/Dennis-Comz/OLC1_PROYECTO1_1S_2022)
 
